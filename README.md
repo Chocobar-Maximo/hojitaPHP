@@ -88,7 +88,7 @@ INSERT INTO `canciones` (`titulo`, `artista`, `album`, `portada_url`, `destacado
 5. Evidencia de Funcionamiento (Capturas de Pantalla):
 a. Captura del sitio corriendo en el navegador:
 
-<img src='capturas/sitioweb.png' alt='sitio web' width='550' height='200'>
+<img src='capturas/sitioweb.png' alt='sitio web' width='450' height='200'>
 
 b. Estructura Modular (SSI):
 
@@ -98,7 +98,7 @@ b. Estructura Modular (SSI):
 
 c. Navegación Dinámica:
 
-<img src='capturas/navegacion.png' alt='titulo dinamico' width='500' height='200'>
+<img src='capturas/navegacion.png' alt='titulo dinamico' width='450' height='200'>
 
 <img src='capturas/linea nav.png' alt='linea titulo dinamico' width='500' height='200'>
 
