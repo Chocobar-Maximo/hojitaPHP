@@ -25,7 +25,9 @@ Podés consultar el diseño y prototipado inicial del proyecto en el siguiente e
 
 4. Instrucciones de Instalación y Ejecución Local: 
  a. Descargar e instalar XAMPP (https://www.apachefriends.org/es/download.html).
+
  b. Descargar los archivos del sitio web de este repositorio (como los archivos PHP, JS, CSS, TXT, imagenes de la carpeta 'img' pero no de 'capturas', etc.).
+ 
  c. Mantener la estrucutra de carpetas y archivos de la siguiente manera: 
 
    Hojita/
@@ -47,7 +49,9 @@ Podés consultar el diseño y prototipado inicial del proyecto en el siguiente e
 └── demas_archivos.php
 
  d. Ejecutar XAMPP y activar Apache y MySQL.
- e. Clonar la carpeta donde están almacenados todos los archivos descargados desde GitHub y moverla a la siguiente dirección de tu computadora: 'C:\xampp\htdocs'
+ 
+ e. Clonar la carpeta donde están almacenados todos los archivos descargados desde GitHub y moverla a la siguiente dirección de tu computadora: 'C:\xampp\htdocs'.
+ 
  f. Entrar desde el navegador a 'http://localhost/phpmyadmin/' para crear la base de datos. Dirigirse a pestaña SQL y ejecutar el siguiente codigo:
 
 
