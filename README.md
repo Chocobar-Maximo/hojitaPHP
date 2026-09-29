@@ -88,20 +88,20 @@ INSERT INTO `canciones` (`titulo`, `artista`, `album`, `portada_url`, `destacado
 5. Evidencia de Funcionamiento (Capturas de Pantalla):
 a. Captura del sitio corriendo en el navegador:
 
-<img src='capturas/sitioweb.png' alt='sitio web' width='150' height='50'>
+<img src='capturas/sitioweb.png' alt='sitio web' width='550' height='200'>
 
 b. Estructura Modular (SSI):
 
-<img src='capturas/includes.png' alt='carpeta includes' width='120' height='50'>
+<img src='capturas/includes.png' alt='carpeta includes' width='520' height='200'>
 
-<img src='capturas/header.png' alt='uso del archivo header.php' width='100' height='50'>
+<img src='capturas/header.png' alt='uso del archivo header.php' width='500' height='200'>
 
 c. Navegación Dinámica:
 
-<img src='capturas/navegacion.png' alt='titulo dinamico' width='1000' height='50'>
+<img src='capturas/navegacion.png' alt='titulo dinamico' width='500' height='200'>
 
-<img src='capturas/linea nav.png' alt='linea titulo dinamico' width='100' height='50'>
+<img src='capturas/linea nav.png' alt='linea titulo dinamico' width='500' height='200'>
 
 d. Configuración de Variables de Entorno:
 
-<img src='capturas/variables.png' alt='archivos .env y .gitignore' width='50' height='80'>
+<img src='capturas/variables.png' alt='archivos .env y .gitignore' width='200' height='600'>
