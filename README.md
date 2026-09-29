@@ -98,7 +98,7 @@ b. Estructura Modular (SSI):
 
 c. Navegación Dinámica:
 
-<img src='capturas/navegacion.png' alt='titulo dinamico' width='100' height='50'>
+<img src='capturas/navegacion.png' alt='titulo dinamico' width='1000' height='50'>
 
 <img src='capturas/linea nav.png' alt='linea titulo dinamico' width='100' height='50'>
 
